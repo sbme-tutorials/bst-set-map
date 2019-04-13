@@ -33,7 +33,7 @@ bool find( const MapNode *map, char key )
     
 }
 
-void insert( MapNode * &map, char key )
+void insert( MapNode * &map, char key, int value )
 {
     
 }
